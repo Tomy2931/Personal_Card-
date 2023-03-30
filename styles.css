@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Josefin+Sans:wght@300&family=Quicksand&display=swap');
+body{
+    margin: 0;
+    background-color: black;
+    background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8flUcX0URVXup2OJy2dV2TiwrFlZq7AhHDcfEsFFdx8L3ODjyxzvcLZ1JFCQA7F9n8--vsCa0MgNKSLIbS5s0DrLFKZe0c-v5RgSENg5vdO7kHcqhY_8emKMuxpkZszg_RTCckFDeIzmw8oVbp9GS84roWcViZMw09yklBlXixWhIcEinCyUru-hE_A/s960/LfpY.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+}
+.card{
+    color: rgb(255, 255, 255);
+    opacity: 98%;
+    font-size: 20px;
+}
+.name{
+    font-size: 30px;
+    color: rgb(57, 98, 16);}
+p{margin-top: 2px;}
+.card .backImg{
+    width:400px;
+    height: 150px;
+    border-bottom: solid rgb(59, 59, 59);
+  
+}
+.card .icono{
+    width: 100px;
+    height: 100px;  
+    margin-top: -50px;
+    border-radius: 100%;
+    border: solid rgb(59, 59, 59);
+}
+section{
+    border: solid 1 px;
+    background-color: rgb(29, 36, 36);
+    border-radius: 40px;
+    margin: 0 auto;
+    margin-top: 50px;
+    display: flex;
+    width: 400px;
+    height: 550px;
+    overflow: hidden;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    opacity: 98%;   
+}
+.iconos{
+    margin-top: 140px;
+    width: 40px;
+    height: 40px;
+}
+
+
